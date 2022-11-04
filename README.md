@@ -22,10 +22,14 @@ Our repository mainly deals with Machine Learning and Deep Learning concepts- De
 ### Libraries 
 <hr>
 
+- Pandas
+- NumPy
 - Matplotlib
+- Math
 - Sys
 - Time
 - Keras
+
   
 ### Tools
 <hr>
