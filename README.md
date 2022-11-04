@@ -13,11 +13,11 @@ Our repository mainly deals with Machine Learning and Deep Learning concepts- De
 ### File Structure
 <hr>
 
-├── Assets                   
-├── CNN                   
-├── Decision Trees                    
-├── Infographic on Decision Trees                   
-└── README.md
+├── Assets   [ Contains media used for the repo ]                
+├── CNN      [ Contains the code implementation of CNN ]            
+├── Decision Trees   [ Contains the Code implementation and Mathematics of DT ]                
+├── Infographic on Decision Trees   [ Comprehensive figure explaining DT ]                
+└── README.md  [ .md file describing the repo ]
   
 ### Libraries 
 <hr>
