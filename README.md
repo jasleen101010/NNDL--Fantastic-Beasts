@@ -5,12 +5,20 @@
 
 Our repository mainly deals with Machine Learning and Deep Learning concepts- Decision Trees and CNN in particular.
 
-### Here are a few pointers to navigate easily around our repository-
+### Here are a few pointers that will help you to navigate easily around our repository-
 
 ### File Structure
-
 ├── Assets                   
 ├── CNN                   
 ├── Decision Trees                    
 ├── Infographic                   
 └── README.md
+  
+### Libraries 
+<hr>
+  
+### Tools
+<hr>
+  
+### References
+<hr>
